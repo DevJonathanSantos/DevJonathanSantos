@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 About Me:
 Sou Jonathan Santos de Oliveira, desenvolvedor fullstack apaixonado por tecnologia e inovação, com mais de 6 anos de experiência no desenvolvimento de soluções escaláveis e de alta performance. Tenho expertise em arquitetura de software, cloud computing e microsserviços, atuando em projetos de diferentes segmentos.<br><br> Sou um entusiasta do mercado financeiro e fascinado pela tecnologia que agrega valor ao ecossistema financeiro.<br><br><br>🚀 🔍 Sempre em busca de aprender e evoluir!<br><br>📩 Contato: jonathanoliveira.dev@gmail.com | 📍 Taboão da Serra, SP | ☎️ (11) 95860-7051
 
 
